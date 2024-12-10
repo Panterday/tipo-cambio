@@ -1,0 +1,10 @@
+<manifest projecttype="SUITEAPP">
+  <publisherid>com.netsuite</publisherid>
+  <projectid>tipocambio</projectid>
+  <projectname>tipo-de-cambio</projectname>
+  <projectversion>1.0.0</projectversion>
+  <frameworkversion>1.0</frameworkversion>
+  <features>
+    <feature required="true">SERVERSIDESCRIPTING</feature>
+  </features>
+</manifest>
